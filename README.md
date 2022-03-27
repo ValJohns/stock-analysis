@@ -12,6 +12,9 @@ I was successful in retrieving the requested information in that larger dataset 
 ## **Stock Performance for 2017 & 2018**
 - When comparing the performance between 2017 and 2018 stock market reports, the most striking element of the reports are the returns. The returns in 2017 greatly outperformed 2018 except for TERP and RUN stock. It is safe to the better return were in the 2017 for most of the stocks in the dataset.  
 Below are the performance results along with the time elapsed stamp of the refactored code being ran also: 
+![2017](vba_Challenge_2017.png)
+![2018](vba_challenge_2018.png)
+
 
 ## **Summary:** ##
 
