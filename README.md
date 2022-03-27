@@ -6,7 +6,8 @@ I was presented with a client named who sent stock datasets cover the years in 2
 
 ## **Results**: 
 I was successful in retrieving the requested information in that larger dataset presented to me. One the main edit to the refactored code it that I have removed the use of "nested loops”, nested loops can slow down the run of the code. As I have implemented a ticker index, and three additional arrays to outset the need for the nested loop from the original code.  used the following code below:
-
+![code1](codept1.png)
+![code2](codept2.png)
 
 
 ## **Stock Performance for 2017 & 2018**
